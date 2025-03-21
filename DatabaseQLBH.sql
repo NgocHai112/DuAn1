@@ -1,6 +1,6 @@
 ﻿CREATE DATABASE QLBH
 USE QLBH 
-
+-- Kha là gà công nghiệp
 -- Bảng quản lý nhân viên
 CREATE TABLE NhanVien (
     MaNV INT IDENTITY(1,1) PRIMARY KEY,
